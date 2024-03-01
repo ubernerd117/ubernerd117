@@ -8,7 +8,8 @@
 ### 🌱 I’m currently learning ...
 - SQL for class, and trying to figure out Firebase for my app. It is also my research project for my database classes since I am taking it as an honors class.
 - Kotlin and native android app developemnt.
-- Mastering Python libraries like 
+- Mastering Python libraries like numpy, sympy, matplotlib, tkinter, and pandas.
+- Google's Gemini API to add additional functionality for Olive.
 
 
 
