@@ -1,5 +1,5 @@
 # Sourab Shaik
-## BS in Computer Science, Computational Data Science
+## BS in Computer Science, Computational Data Science Specialization
 
 ### 🔭 I’m currently working on ...
 - **Olive** A mental health app with pages for tracking workouts, logging meals, meditating, and journaling.
