@@ -3,13 +3,6 @@
 
 ### 🔭 I’m currently working on ...
 - **Olive** A mental health app with pages for tracking workouts, logging meals, meditating, and journaling.
-- **CURS Paper** A paper discussing various ethical questions that a computer science professional must ask when working with AI.
-
-### 🌱 I’m currently learning ...
-- SQL for class, and trying to figure out Firebase for my app. It is also my research project for my database classes since I am taking it as an honors class.
-- Kotlin and native android app developemnt.
-- Mastering Python libraries like numpy, sympy, matplotlib, tkinter, and pandas.
-- Google's Gemini API to add additional functionality for Olive.
 
 
 
